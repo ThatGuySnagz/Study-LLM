@@ -1,1 +1,13 @@
 .DS_Store
+
+# Personal study files
+materials/inbox/
+materials/extracted/
+
+decks/*.json
+!decks/example-deck.json
+decks/*.progress.json
+
+# Secrets
+.env
+.env.*
